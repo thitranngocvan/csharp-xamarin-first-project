@@ -30,7 +30,7 @@
     </Shell.Resources>
 
     <!-- Your Pages -->
-    <FlyoutItem FlyoutDisplayOptions="AsSingleItem" Title="Buckets List">
+    <FlyoutItem FlyoutDisplayOptions="AsSingleItem" Title="Bucket List">
         <Tab Title="List" Icon="tab_feed.png">
             <local:ItemsPage />
             <local:NewItemPage />

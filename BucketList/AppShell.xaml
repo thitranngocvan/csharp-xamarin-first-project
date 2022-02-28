@@ -37,7 +37,7 @@
         </Tab>
         <ShellContent Title="Mission" ContentTemplate="{DataTemplate local:MissionPage}" />
     </FlyoutItem>
-    <FlyoutItem>
+    <FlyoutItem Title="About">
         <Tab Title="About" Icon="tab_about.png">
             <ShellContent ContentTemplate="{DataTemplate local:AboutPage}" />
         </Tab>
